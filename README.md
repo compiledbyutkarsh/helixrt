@@ -133,6 +133,8 @@ This project explores:
 
 # 📸 Preview
 
+![HelixRT Dashboard](./public/dashboard-preview.png)
+
 * Live telemetry visualization
 * Realtime robot movement
 * Runtime metrics dashboard
